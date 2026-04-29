@@ -77,12 +77,46 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Portfolio Website](https://portfolio-five-gamma-6wwqsqqvrx.vercel.app/) | Animated multi-page portfolio with services, skills, and project case studies | Next.js, Framer Motion, Tailwind CSS |
-| GSN-WEB *(private)* | Modern web platform with clean UI and maintainable TypeScript architecture | TypeScript, React |
-| Hustle *(private)* | Full stack TypeScript product | TypeScript |
-| CA Software *(private)* | Custom software solution | TypeScript |
-| Red Ridge Entertainment *(private)* | Entertainment platform | TypeScript |
-| The Blueprint *(private)* | Product planning and architecture project | TypeScript |
+| Portfolio Website | Animated multi-page portfolio with services, skills, and project case studies | Next.js, Framer Motion, Tailwind CSS |
+| GSN-WEB (private) | Modern web platform with clean UI and maintainable TypeScript architecture | TypeScript, React |
+| Hustle (private) | Full stack TypeScript product | TypeScript |
+| CA Software (private) | Custom software solution | TypeScript |
+| Red Ridge Entertainment (private) | Entertainment platform | TypeScript |
+| The Blueprint (private) | Product planning and architecture project | TypeScript |
+
+---
+
+## Additional Project Experience
+
+Repository names shared from your project history (shown without links):
+
+- `lchahra-frontend`
+- `NARSP`
+- `MyTVApp`
+- `MT4`
+- `lchahra-backened`
+- `Meg4GA`
+- `Credit-Monitoring-and-Loan-Management-Platform`
+- `kovocredit`
+- `the-first-hour`
+- `Red-Ridge-Entertainment`
+- `PharmacyManagement ElectronJs`
+- `Dextop`
+- `threejs-next`
+- `home_mountain`
+- `the-blueprint`
+- `portfolio`
+- `Xcode`
+- `Innovation_website`
+- `VPN`
+- `GSN-WEB`
+- `ca-software`
+- `TodoListApp`
+- `ProcastWatchApp`
+- `hustle`
+- `lchahra_app`
+- `iosAPP`
+- `Dinabite_n`
 
 ---
 
